@@ -1,1 +1,2 @@
 Welcome to Git!
+Let us perform some git commands.
